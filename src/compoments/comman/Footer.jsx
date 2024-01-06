@@ -142,7 +142,7 @@ const Footer = () => {
                         })}
                     </div>
                     {/* copyright */}
-                    <div className=" text-center">Made With ❤️ Jatin Sahu © 2023 Studynotion_JS</div>
+                    <div className=" text-center">Made With ❤️ Atul Pandey © 2023 Studynotion_JS</div>
                 </div>
             </div>
         </div >
